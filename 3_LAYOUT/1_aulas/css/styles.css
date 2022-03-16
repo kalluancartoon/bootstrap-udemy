@@ -1,0 +1,43 @@
+/* XS */
+h1 {
+    color:blueviolet;
+}
+
+/* SM >= 576px */
+@media (min-width: 576px) {
+    h1 {
+        color: palevioletred;
+    }
+}
+
+/* MD >= 768px */
+@media (min-width: 768px) {
+    h1 {
+        color: indigo;
+    }
+}
+
+/* LG >= 992px */
+@media (min-width: 992px) {
+    h1 {
+        color: blue;
+    }
+}
+
+/* XL >= 1200px */
+@media (min-width: 1200px) {
+    h1 {
+        color: purple;
+    }
+}
+
+/* XXL >= 1400px */
+@media (min-width: 1400px) {
+    h1 {
+        color: fuchsia;
+    }
+}
+
+.btn-primary {
+    background-color: blueviolet;
+}
