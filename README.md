@@ -1,4 +1,4 @@
-# bootstrap-udemy 
+# Bootstrap-udemy 
 ### Meu curso de Bootstrap. Aqui estará meu desenvolvimento diário, atividades e projetos em Bootstrap. Venha acompanhar ! 
 ##
 🍀🤞 Meu sonho de ser um grande **_desenvolvedor_** irei realizar! 🤞🍀 
